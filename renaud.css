@@ -21,7 +21,7 @@ body {
    position: absolute;
    padding: 0px 0px 0px 20px;
    z-index: 3;
-   color: #131359;
+   color: skyblue;
    font-weight: bold;
 }
 
@@ -64,7 +64,7 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color: white;
+    background-color: darkgrey;
     z-index: 1;
 }
 
@@ -89,7 +89,7 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color:#3f3c3c;
+    background-color:blue;
 }
 
 .footer-content {
