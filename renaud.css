@@ -51,7 +51,7 @@ body {
 }
 
 .top-menu li a:hover {
-    background-color: red;
+    background-color: orange;
 }
 
 .current-page-link {
@@ -98,6 +98,6 @@ body {
 }
 
 .footer-content a:link {
-    color: white;
+    color: hotpink;
     text-decoration: none;
 }
